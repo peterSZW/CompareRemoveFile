@@ -48,7 +48,7 @@ CompareRemoveFile.exe CleanPath-DB -p D:\PhotoB -d AllPhotoDB -y
 CompareRemoveFile.exe CleanPath-DB -p D:\PhotoC -d AllPhotoDB -y
 ```
 
-# Chinese
+# 中文说明
 
 ```
 CompareRemoveFile v1.0
