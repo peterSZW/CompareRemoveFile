@@ -1,5 +1,5 @@
 
-# CompareRemoveFile v1.0
+# CompareRemoveFile v1.0.0
 ```
 Compare and Remove Duplication File Tool, based on file size and partial MD5. Wechat:Peter_szw
 
@@ -51,9 +51,9 @@ CompareRemoveFile.exe CleanPath-DB -p D:\PhotoC -d AllPhotoDB -y
 # 中文说明
 
 ```
-CompareRemoveFile v1.0
+CompareRemoveFile v1.0.0
 
-根据文件大小和部分MD5,比较和删除重复文件工具。微信:Peter_szw
+根据文件大小和部分MD5,比较和删除重复文件工具。 
 
 Usage:
   CompareRemoveFile [command]
